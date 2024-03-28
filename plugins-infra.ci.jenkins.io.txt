@@ -3,7 +3,7 @@ ansicolor:1.0.4
 antisamy-markup-formatter:162.v0e6ec0fcfcf6
 apache-httpcomponents-client-4-api:4.5.14-208.v438351942757
 authentication-tokens:1.53.v1c90fd9191a_b_
-aws-credentials:218.v1b_e9466ec5da_
+aws-credentials:231.v08a_59f17d742
 aws-java-sdk-ec2:1.12.671-445.ve02f9b_558f2e
 aws-java-sdk-minimal:1.12.671-445.ve02f9b_558f2e
 azure-container-agents:253.vd2f5cd5c5040
